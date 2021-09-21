@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9926f46.chunk.css",
+    "main.js": "/static/js/main.183d4746.chunk.js",
+    "main.js.map": "/static/js/main.183d4746.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1dd28327.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1dd28327.js.map",
+    "static/css/2.bf73ea94.chunk.css": "/static/css/2.bf73ea94.chunk.css",
+    "static/js/2.29eef005.chunk.js": "/static/js/2.29eef005.chunk.js",
+    "static/js/2.29eef005.chunk.js.map": "/static/js/2.29eef005.chunk.js.map",
+    "static/js/3.de99490a.chunk.js": "/static/js/3.de99490a.chunk.js",
+    "static/js/3.de99490a.chunk.js.map": "/static/js/3.de99490a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.74672ba02b50838a69ee70c2b3a3f071.js": "/precache-manifest.74672ba02b50838a69ee70c2b3a3f071.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bf73ea94.chunk.css.map": "/static/css/2.bf73ea94.chunk.css.map",
+    "static/css/main.c9926f46.chunk.css.map": "/static/css/main.c9926f46.chunk.css.map",
+    "static/js/2.29eef005.chunk.js.LICENSE.txt": "/static/js/2.29eef005.chunk.js.LICENSE.txt",
+    "static/media/ApexLogo.jpg": "/static/media/ApexLogo.c3b7cec5.jpg",
+    "static/media/ab1.jpg": "/static/media/ab1.46ccf877.jpg",
+    "static/media/ab2.jpg": "/static/media/ab2.dd2e604e.jpg",
+    "static/media/ab4.png": "/static/media/ab4.a84bad42.png",
+    "static/media/c1.png": "/static/media/c1.11db147a.png",
+    "static/media/c2.jpg": "/static/media/c2.4a48a345.jpg",
+    "static/media/c3.jpg": "/static/media/c3.87a7cd70.jpg",
+    "static/media/c4.jpg": "/static/media/c4.08ea49df.jpg",
+    "static/media/c5.jpg": "/static/media/c5.316d0177.jpg",
+    "static/media/c6.jpg": "/static/media/c6.ccea4c95.jpg",
+    "static/media/c7.jpg": "/static/media/c7.1f6a248d.jpg",
+    "static/media/c8.jpg": "/static/media/c8.07dc8f99.jpg",
+    "static/media/chem1.jfif": "/static/media/chem1.7f20768b.jfif",
+    "static/media/chem2.jfif": "/static/media/chem2.c80b5473.jfif",
+    "static/media/chem3.jfif": "/static/media/chem3.805082ba.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dd28327.js",
+    "static/css/2.bf73ea94.chunk.css",
+    "static/js/2.29eef005.chunk.js",
+    "static/css/main.c9926f46.chunk.css",
+    "static/js/main.183d4746.chunk.js"
+  ]
+}
